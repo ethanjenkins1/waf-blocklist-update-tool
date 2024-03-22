@@ -1,0 +1,7 @@
+azure-identity
+azure-mgmt-frontdoor
+requests
+ipaddress
+azure-storage-blob
+azure-mgmt-network
+azure-mgmt-resource
